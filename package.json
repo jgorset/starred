@@ -4,6 +4,7 @@
   "description": "Play a victory fanfare when your repositories get starred on GitHub",
   "keywords": ["github", "stars", "starred", "notifications"],
   "homepage": "https://github.com/jgorset/starred",
+  "repository": "https://github.com/jgorset/starred",
   "bugs": {
     "url": "https://github.com/jgorset/starred/issues",
     "email": "jgorset@gmail.com"
