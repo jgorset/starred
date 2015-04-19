@@ -17,4 +17,8 @@
     "github": "^0.2.3",
     "minimist": "^1.1.1"
   }
+  },
+  "files": [
+    "./victory.mp3"
+  ]
 }
