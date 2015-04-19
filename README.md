@@ -1,6 +1,7 @@
 # Starred
 
-Play a victory fanfare when your repositories get starred on GitHub.
+Plays a [victory fanfare](https://raw.githubusercontent.com/jgorset/starred/master/victory.mp3)
+when your repositories get starred on GitHub.
 
 ## Usage
 
