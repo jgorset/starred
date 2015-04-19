@@ -48,7 +48,7 @@ function query(path) {
           console.log("New stars on " + cachedRepository.path + "!");
         }
 
-        exec('afplay victory.mp3');
+        exec('afplay ' + __dirname + '/victory.mp3');
       }
 
       cachedRepository.stars = data.watchers;
