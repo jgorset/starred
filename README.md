@@ -12,7 +12,7 @@ $ starred hyperoslo/Form hyperoslo/Sync
 ## Installation
 
 ```bash
-$ npm install starred
+$ npm install -g starred
 ```
 
 ## Dependencies
