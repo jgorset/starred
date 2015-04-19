@@ -1,6 +1,6 @@
 {
   "name": "starred",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Play a victory fanfare when your repositories get starred on GitHub",
   "keywords": ["github", "stars", "starred", "notifications"],
   "homepage": "https://github.com/jgorset/starred",
