@@ -1,0 +1,20 @@
+{
+  "name": "starred",
+  "version": "0.0.1",
+  "description": "Play a victory fanfare when your repositories get starred on GitHub",
+  "keywords": ["github", "stars", "starred", "notifications"],
+  "homepage": "https://github.com/jgorset/starred",
+  "bugs": {
+    "url": "https://github.com/jgorset/starred/issues",
+    "email": "jgorset@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Johannes Gorset <jgorset@gmail.com>",
+  "bin": {
+    "starred": "./starred.js"
+  },
+  "dependencies": {
+    "github": "^0.2.3",
+    "minimist": "^1.1.1"
+  }
+}
