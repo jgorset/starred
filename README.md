@@ -24,8 +24,3 @@ you're on Linux you'll need to [get your hands dirty](https://github.com/jgorset
 
 Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset) if you can't get it
 to work. In fact, you should tweet me anyway.
-
-## I love Hyper
-
-I work at [Hyper](http://hyper.no) with a bunch of awesome folks who are all every bit as passionate
-about making things as I am. If you're using this application, we probably want to hire you.
